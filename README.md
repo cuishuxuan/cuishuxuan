@@ -1,7 +1,5 @@
 # 崔容宇
 
-<img align="right" width="200" src="https://github.com/cuishuxuan/cuishuxuan/blob/main/profile-pic.jpg?raw=true">
-
 Hi there! I'm **Rongyu Cui** (崔容宇), born in 1982, originally from Zaozhuang, Shandong Province, China. I am an Assistant Professor of Computer Science at Chengdu Neusoft University, specializing in Artificial Intelligence and Software Architecture.
 
 ## Education
